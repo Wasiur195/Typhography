@@ -1,2 +1,2 @@
-# typhography
-Bootstrap
+bootstrap
+typhography
